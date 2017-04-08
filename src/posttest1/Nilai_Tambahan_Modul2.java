@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author DwickyAriPandawa
+ * @author USER
  */
 public class Nilai_Tambahan_Modul2 extends javax.swing.JFrame {
     private String combopilih;

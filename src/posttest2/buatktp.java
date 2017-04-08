@@ -7,7 +7,7 @@ package posttest2;
 
 /**
  *
- * @author Gilang BK
+ * @author USER
  */
 public class buatktp extends javax.swing.JFrame {
 

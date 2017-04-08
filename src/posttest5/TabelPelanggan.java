@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author nadyaocta
+ * @author USER
  */
 public class TabelPelanggan extends javax.swing.JFrame {
      private DefaultTableModel model;
